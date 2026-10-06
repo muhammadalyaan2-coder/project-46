@@ -1,0 +1,21 @@
+#box {
+    display: none;
+    padding: 20px;
+    margin: 20px;
+    border:  solid rgb(255, 0, 0);
+}
+
+#myImage {
+    width: 250px;
+}
+
+.hover {
+    width: 280px;
+    border: 3px solid black;
+}
+
+.click {
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
